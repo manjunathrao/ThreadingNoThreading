@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ThreadingNoThreading</string>
+
+    <string name="startActivityHeader">Select the functionality you need </string>
+    <string name="radioButtonThreadingString"> Threading </string>
+    <string name="radioButtonNoThreadingString"> No Threading </string>
+    <string name="startActivityButton"> CLICK </string>
+
+    <string name="ImageViewButton"> CLICK TO DOWNLOAD IMAGE </string>
+    <string name="ToastButton"> CLICK TO TOAST </string>
+    <string name="ImageViewContentDescription"> Display downloaded image </string>
+
+
 </resources>
